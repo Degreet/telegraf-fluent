@@ -2,6 +2,12 @@
 
 Fixed i18n plugin for Telegraf v4 (using fluent like @grammy/i18n)
 
+```
+npm install telegraf-fluent
+# or
+yarn add telegraf-fluent
+```
+
 # Example
 
 locales/en.ftl
